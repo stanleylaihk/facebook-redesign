@@ -37,7 +37,8 @@ const Sidebar = () => {
               width: 30,
               height: 30,
               marginRight: "26px",
-              bgcolor: colors.paper,
+              bgcolor: colors.background,
+              color: colors.primary,
               borderRadius: "10px",
             }}
             src=""

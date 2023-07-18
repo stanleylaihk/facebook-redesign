@@ -2,7 +2,6 @@ import {
   Avatar,
   Box,
   Button,
-  Card,
   InputBase,
   Stack,
   Typography,
@@ -12,7 +11,7 @@ import {
   Modal,
   ButtonGroup,
 } from "@mui/material";
-import { ColorModeContext, tokens } from "./../theme";
+import { tokens } from "./../theme";
 import Post from "./Post";
 import Story from "./Story";
 import React, { useState } from "react";

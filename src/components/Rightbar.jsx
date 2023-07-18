@@ -1,17 +1,9 @@
 import React from "react";
 import { tokens } from "./../theme";
 import {
-  AvatarGroup,
   Avatar,
   Box,
   Typography,
-  ImageList,
-  ImageListItem,
-  List,
-  ListItem,
-  ListItemAvatar,
-  ListItemText,
-  Divider,
   useTheme,
   Button,
   Stack,

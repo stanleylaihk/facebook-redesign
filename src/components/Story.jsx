@@ -1,6 +1,6 @@
 import { Avatar, Box, Typography, useTheme } from "@mui/material";
 import React from "react";
-import { ColorModeContext, tokens } from "./../theme";
+import { tokens } from "./../theme";
 
 const Story = (data) => {
   const theme = useTheme();

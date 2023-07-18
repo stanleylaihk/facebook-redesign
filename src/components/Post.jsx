@@ -2,7 +2,6 @@ import {
   Favorite,
   FavoriteBorder,
   MoreHoriz,
-  MoreVert,
   Share,
 } from "@mui/icons-material";
 import { tokens } from "./../theme";
