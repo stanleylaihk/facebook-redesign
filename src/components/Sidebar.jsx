@@ -32,7 +32,16 @@ const Sidebar = () => {
     <Box>
       <Box sx={{ bgcolor: colors.paper, borderRadius: "10px" }} p={2}>
         <Box display="flex" alignItems="center" sx={{ padding: "8px 16px" }}>
-          <Avatar sx={{ width: 30, height: 30, marginRight: "26px" }} src="" />
+          <Avatar
+            sx={{
+              width: 30,
+              height: 30,
+              marginRight: "26px",
+              bgcolor: colors.paper,
+              borderRadius: "10px",
+            }}
+            src=""
+          />
           <Typography>Mark</Typography>
         </Box>
         <Divider color={colors.primary} />
