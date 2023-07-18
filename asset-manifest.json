@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/facebook-redesign/static/css/main.eeaba85d.css",
+    "main.js": "/facebook-redesign/static/js/main.19c84e2d.js",
+    "index.html": "/facebook-redesign/index.html",
+    "main.eeaba85d.css.map": "/facebook-redesign/static/css/main.eeaba85d.css.map",
+    "main.19c84e2d.js.map": "/facebook-redesign/static/js/main.19c84e2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeaba85d.css",
+    "static/js/main.19c84e2d.js"
+  ]
+}
